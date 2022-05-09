@@ -6,3 +6,4 @@ added on second branch
 edited in first file and main branch
 merge main branch to second branch
 
+added line in first file and second branch
